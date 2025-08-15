@@ -34,3 +34,7 @@ Average:
 -State: Kentucky, number of cycles for successful reproduction ~2.89  
 -Annual # cycles performed: 7228336  
 -Demographic: Patients using donor eggs and frozen embryos  
+
+Project Paper: 
+[Read the report](
+
