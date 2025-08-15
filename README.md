@@ -36,5 +36,5 @@ Average:
 -Demographic: Patients using donor eggs and frozen embryos  
 
 Project Paper: 
-[Read the report](files/DMFinal.pdf)
+[Read the report](DMFinal.pdf)
 
