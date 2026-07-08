@@ -1,7 +1,7 @@
 # DM-Project
 ART meta analysis data mining project  
 
-Description: This project is a meta analysis on relevant success factors for different Assisted Reproductive Technology(ART) demographics from 2020-2022. Success is defined in this context by the least amount of expected ART cycles rquired to result in a live-birth.  
+Description: This project is a meta analysis on relevant success factors for different Assisted Reproductive Technology(ART) demographics from 2020-2022. Success is defined in this context by the least amount of expected ART cycles required to result in a live-birth.  
 
 Summary Q&A:  
 What demographics were most successful year to year?  
