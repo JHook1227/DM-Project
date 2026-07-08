@@ -38,6 +38,5 @@ Average:
 Project Paper: 
 [Read the report](DMFinal.pdf)
 
-Video Presentatiion:
-https://app.screencast.com/XZu5i1EUabfU7
+
 
